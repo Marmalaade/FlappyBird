@@ -1,0 +1,2 @@
+D:\Progi\KP1\x64\Debug\KP1.exe
+D:\Progi\KP1\x64\Debug\KP1.pdb

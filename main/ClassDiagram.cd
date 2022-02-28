@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BirdUpdate">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUAACAAAAAAAAAECAAASACAQAACAAAAAEAAAECA=</HashCode>
+      <FileName>BirdUpdate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flappy">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAABBAAAAEAAAAAAAAAABBAAAAAABAAAQBAAAA=</HashCode>
+      <FileName>Flappy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEAAAAAAAQCAAAAAAABAAAhAAAAAAAAAAAAAIAg=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameStates">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="GameStates::GameState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameStates.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAAAgAQAAAAA=</HashCode>
+      <FileName>GameStates.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Run">
+    <Position X="2.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Run.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sounds">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUAAAAAAAAAAAAAAgAAAAAAAACAABAAAAABQAAA=</HashCode>
+      <FileName>Sounds.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Textures">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAADAAAAAAAAQAAAAAAEAAAAAAAAAIAg=</HashCode>
+      <FileName>Textures.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

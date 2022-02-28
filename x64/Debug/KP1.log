@@ -1,0 +1,13 @@
+﻿  BirdUpdate.cpp
+  Flappy.cpp
+  Game.cpp
+  main.cpp
+  Run.cpp
+D:\Progi\proga univer\KP1\Run.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Progi\proga univer\KP1\Run.cpp(82,49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Progi\proga univer\KP1\Run.cpp(117,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Progi\proga univer\KP1\Run.cpp(122,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Sounds.cpp
+  Textures.cpp
+  Создание кода...
+LINK : fatal error LNK1104: не удается открыть файл "sfml-graphics-d.lib"
